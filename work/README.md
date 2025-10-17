@@ -4,4 +4,6 @@ Tout d'abord animateur informatique, au forum de la madeleine à Chartres de 200
 
 J'ai pu ensuite évoluer vers le poste de développeur dans la même entreprise, de 2008 à 2016.
 
-Suite au rachat de la maison mère de Connect Assistance, j'ai choisi de changer d'employeur au profit de Qualiconsult, chez qui je suis développeur depuis 2016
+Suite au rachat de la maison mère de Connect Assistance, j'ai choisi de changer d'employeur au profit de [Qualiconsult](https://www.groupe-qualiconsult.fr/), chez qui je suis développeur depuis 2016
+
+Je suis aussi, en parallèle, designer de jeu de société freelance en amateur, notamment pour [Button Shy Games](https://buttonshygames.com/)
