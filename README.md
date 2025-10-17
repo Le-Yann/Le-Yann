@@ -1,6 +1,6 @@
 ## Hello There
 
-i'm Yann Perrin, a french web developper and long time [boardgame enthusiast](/hobby/boardgames/index.md).
+i'm Yann Perrin, a french [web developper](/work/README.md) and long time [boardgame enthusiast](/hobby/boardgames/index.md).
 
 I'm also :
 - [a freelance boardgame designer](https://boardgamegeek.com/boardgamedesigner/156056/yann-perrin)
@@ -10,6 +10,8 @@ I'm also :
 - a casual videogame player
 - a tinkerer
 - a geek
+
+Also, while i do read and write english quite often, i'm more at ease in my native language, so most of the links here will lead to some content in french.
 
 
 
