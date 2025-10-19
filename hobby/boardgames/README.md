@@ -21,7 +21,7 @@ J'aime aussi les jeux abstraits comme :
 - Tak
 - Murus Gallicus
 - Fanorona
-- Corporation
+- Eric Solomon's Corporation
 - Diaballik
 
 Et les jeux de cartes dont :
