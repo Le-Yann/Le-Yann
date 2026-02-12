@@ -6,7 +6,7 @@ Je joue beaucoup aux jeux de société, voici quelques uns de mes préférés :
 - Santorini
 - Root
 - Tigre & Euphrate
-- Battlecrest
+- [Battlecrest](Battlecrest.md)
 - Everdell
 - Clank
 - Dungeon Twister
