@@ -4,9 +4,8 @@ i'm Yann Perrin, a french [web developper](/work/README.md) and long time [board
 
 I'm also :
 - [a freelance boardgame designer](https://boardgamegeek.com/boardgamedesigner/156056/yann-perrin)
-- a movie lover
-- a series lover
-- a book and graphic novels reader
+- a [movie](/hobby/movies/README.md) and [series](/hobby/series/README.md) lover
+- a [book and graphic novels](/hobby/books/README.md) reader
 - a casual videogame player
 - a tinkerer
 - a geek
